@@ -1,1 +1,1 @@
-# musify-app-
+# musify
